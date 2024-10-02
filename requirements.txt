@@ -1,0 +1,7 @@
+re
+wordcloud
+matplotlib
+collections
+pandas
+os
+PyPDF2
